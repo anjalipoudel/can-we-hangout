@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 25px;
+}
+
+.cat-gif {
+  margin: 25px;
+}
+
+.sure-div {
+  position: absolute;
+  left: 35px;
+  top: 350px;
+}
+
+.sure-button {
+  background-color: green;
+  color: white;
+  border: 0px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.sorry-div {
+  position: absolute;
+  left: 120px;
+  top: 350px;
+}
+
+.sorry-button {
+  background-color: red;
+  color: white;
+  border: 0px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.audio-bar {
+  bottom: 0;
+  position: absolute;
+}
+
+.footer-text {
+  position: absolute;
+  bottom: 0;
+}
